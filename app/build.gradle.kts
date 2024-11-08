@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "no.linchausen.testtesttest"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "no.linchausen.testtesttest"
